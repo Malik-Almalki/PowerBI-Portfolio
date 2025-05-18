@@ -6,4 +6,4 @@ Here you will find a collection of Power BI projects and dashboards that demonst
 
 
 
-## Project 1 [Private-Sector-Saudi-Arabia-2024](https://github.com/Malik-Almalki/Private-Sector-Saudi-Arabia-2024.git)
+## Project 1 [Private Sector Saudi Arabia-2024](https://github.com/Malik-Almalki/Private-Sector-Saudi-Arabia-2024/blob/a3bc0dea297ecbdda54637f40f384e57abc629bd/README.md)
