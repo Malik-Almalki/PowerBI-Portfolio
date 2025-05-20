@@ -3,3 +3,5 @@ Here you will find a collection of Power BI projects and dashboards that demonst
 
 #
 ### Project 1: [Private Sector Saudi Arabia-2024](https://github.com/Malik-Almalki/Private-Sector-Saudi-Arabia-2024/blob/main/README.md)
+#
+### Project 2: [Suzuki Sales Performance Analysis](https://github.com/Malik-Almalki/Private-Sector-Saudi-Arabia-2024/blob/main/README.md)
