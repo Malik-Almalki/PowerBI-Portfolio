@@ -11,7 +11,8 @@ Here you will find a collection of Power BI projects and dashboards that demonst
 ### Project 4: [Government Sector Saudi Arabia-2024](https://github.com/Malik-Almalki/Government-Sector-Saudi-Arabia-2024/blob/main/README.md)
 #
 ### Project 5: [TATA Online Retail Store](https://github.com/Malik-Almalki/TATA-online-retail-store)
-
+#
+### Project 6: [Deloitte Consulting for Daikibo Factories](https://github.com/Malik-Almalki/Deloitte-Consulting-for-Daikibo-Factories)
 
 
 
